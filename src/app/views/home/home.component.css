@@ -1,0 +1,18 @@
+.home{
+    background-color: rgb(9, 9, 134);
+}
+
+.title{
+    color: white;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+.subtitle{
+    color: rgb(180, 176, 176);
+    font-size: 1.1em;
+}
+
+table {
+    width: 90%;
+  }
